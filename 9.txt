@@ -1,1 +1,5 @@
+def	sama():
+	print('三生三世背影成双')
+
+
 ruguo xieeshi hualicanmeideyuezhang
