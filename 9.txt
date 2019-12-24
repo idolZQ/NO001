@@ -3,3 +3,6 @@ def	sama():
 
 
 ruguo xieeshi hualicanmeideyuezhang
+
+def	happy():
+	print('你是我心底压抑最深的秘密')
