@@ -1,1 +1,1 @@
-Chinese is best!
+Chinese is best
