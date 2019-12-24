@@ -3,3 +3,7 @@ def	sama():
 
 
 ruguo xieeshi hualicanmeideyuezhang
+
+
+def happy():
+	print('sing and dance')
